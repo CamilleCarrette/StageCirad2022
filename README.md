@@ -9,7 +9,6 @@ Développement de chaînes de traitement de détection de zones de recombinaison
 3. [Analyses de qualité des assemblages](#analyses-de-qualité-des-assemblages)
 4. [Alignement des lectures PacBio sur les assemblages](#alignement-des-lectures-PacBio-sur-les-assemblages)
 5. [Exploitation de la carte génétique](#exploitation-de-la-carte-génétique)
-6. [FAQs](#faqs)
 
 ## Assemblage Hifiasm
 
