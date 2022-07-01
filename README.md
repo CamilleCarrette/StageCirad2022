@@ -1,6 +1,12 @@
 # StageCirad2022
 Développement de chaînes de traitement de détection de zones de recombinaisons pour un assemblage de génome haplotype résolu
 
+## Table of Contents
+1. [Assemblage Hifiasm](#assemblage-hifiasm)
+2. [Alignements des assemblages et Dotplot](#alignements-des-assemblages-et-Dotplot)
+3. [Alignement des lectures PacBio sur les assemblages](#alignement-des-lectures-PacBio-sur-les-assemblages)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
 
 ## Assemblage Hifiasm
 Script de production d'assemblages primaire et alternatif à partir de lectures PacBio Hifi :
